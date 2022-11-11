@@ -2165,3 +2165,17 @@ ul{
         font-size: small;
     }
 }
+
+.pricing-promotion {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 400px;
+}
+
+.pricing-promotion li {
+    padding-left: 30px;
+}
+
+.pricing-promotion p {
+    padding-top: 30px;
+}
